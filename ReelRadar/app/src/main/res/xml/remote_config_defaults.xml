@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>min_dwell_time_ms</key>
+        <value>1500</value>
+    </entry>
+    <entry>
+        <key>dedupe_window_ms</key>
+        <value>1200</value>
+    </entry>
+    <entry>
+        <key>instagram_package_name</key>
+        <value>com.instagram.android</value>
+    </entry>
+    <entry>
+        <key>reels_pager_view_ids</key>
+        <value>clips_view_pager,clips_video_container,clips_viewer_container,view_pager,clips_viewer_view_pager</value>
+    </entry>
+    <entry>
+        <key>reels_tab_view_ids</key>
+        <value>clips_tab,reels_tab</value>
+    </entry>
+    <entry>
+        <key>breathing_pause_seconds</key>
+        <value>10</value>
+    </entry>
+    <entry>
+        <key>soft_warning_ratio</key>
+        <value>0.7</value>
+    </entry>
+</defaultsMap>

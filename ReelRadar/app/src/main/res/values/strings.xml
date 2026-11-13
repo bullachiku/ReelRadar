@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ReelRadar</string>
+    <string name="accessibility_service_label">ReelRadar Scroll Detector</string>
+    <string name="accessibility_service_description">Monitors Instagram Reels scroll gestures to track viewing counts and enforce user-configured screen time limits. ReelRadar does not read or collect usernames, captions, messages, or media content.</string>
+
+    <!-- Notification Strings -->
+    <string name="notification_channel_limits">ReelRadar Limits &amp; Warnings</string>
+    <string name="notification_channel_limits_desc">Alerts when you reach soft and hard scroll limits</string>
+    <string name="notification_channel_service">ReelRadar Background Monitor</string>
+    <string name="notification_channel_service_desc">Persistent notification to keep the tracker active</string>
+
+    <string name="limit_warning_70_title">Approaching Reels Limit</string>
+    <string name="limit_warning_70_msg">You\'ve reached 70% of your daily limit (%1$d / %2$d reels). Time to wrap up!</string>
+    <string name="limit_warning_100_title">Daily Reels Limit Reached!</string>
+    <string name="limit_warning_100_msg">You reached your limit of %1$d reels. Take a breath and step away.</string>
+</resources>
